@@ -22,7 +22,7 @@ dependencies:
     git:
       url: https://github.com/superkeka/opus_flutter
       path: opus_flutter_windows
-      ref: 9241acc4ed317ab9ad2283f22f8f70355124f3da
+      ref: e82d5f66f46289f7da030867f9037bd21e464359
   opus_flutter_web: ^3.0.3
 
 flutter:
