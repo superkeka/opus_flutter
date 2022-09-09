@@ -19,10 +19,7 @@ dependencies:
   opus_flutter_android: ^3.0.0
   opus_flutter_ios: ^3.0.0
   opus_flutter_windows: 
-    git:
-      url: https://github.com/superkeka/opus_flutter
-      path: opus_flutter_windows
-      ref: 9241acc4ed317ab9ad2283f22f8f70355124f3da
+    path: ../opus_flutter_windows
   opus_flutter_web: ^3.0.3
 
 flutter:
